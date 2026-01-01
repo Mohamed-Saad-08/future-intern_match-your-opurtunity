@@ -1,4 +1,4 @@
-# future-intern_match-your-opurtunity
+# future-intern_match-your-opportunity
 A platform that matches students with internship opportunities using a smart matching algorithm.
 future-intern/
 │
